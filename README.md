@@ -1,6 +1,6 @@
 # CH552duino
 
-<img src="https://github.com/akita11/CH552duino/blob/main/CH552duino.jpg" width="240px">
+<img src="https://github.com/akita11/CH552duino/blob/main/CH552duino.png" width="240px">
 
 [WCH(南京沁恒微电子股份有限公司)](http://wch-ic.com/)の8ビットマイコン[CH552](http://wch-ic.com/products/CH552.html)を使った、Arduino UNO型のマイコンボードです。
 主な特徴は以下のとおりです。
